@@ -73,5 +73,11 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+Content/InfinityBladeGrassLands/*
+Content/InfinityBladeFireLands/*
+Content/InfinityBladeAdversaries/*
+Content/AnimStarterPack/*
+Content/SoulCave/*
+Content/SoulCity/*
 # Put the folder name of any content packs you added to the project here
 Content/StarterContent/*
